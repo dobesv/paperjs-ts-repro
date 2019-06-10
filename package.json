@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "repro": "tsc"
+  },
+  "dependencies": {
+    "paper": "^0.12.1"
+  },
+  "devDependencies": {
+    "typescript": "^3.5.1"
+  }
+}
